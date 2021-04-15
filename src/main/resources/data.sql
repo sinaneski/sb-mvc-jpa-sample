@@ -1,0 +1,1 @@
+insert into accounts (ID, NAME, STATUS, CURRENCY, BALANCE) values (1, 'GBP CLASSIC ACCOUNT', 'ACTIVE', 'GBP', 1675.45)
